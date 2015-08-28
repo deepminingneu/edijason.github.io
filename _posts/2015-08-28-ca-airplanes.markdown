@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "民航客机分辨综述"
+title:  "民航客机综述"
 date:   2015-08-28 15:50:54
-categories: CA
+categories: "CA"
 ---
 
 
 ## 0. 声明
 感谢3HA510的工作，让我有想法对民航客机机型重新进行整理。本文的内容主要来源于3HA510的原创手册[1]、维基百科和Google。介绍民航制造商、波音和空客区分技巧、部分航空公司飞机标准涂装、机场代码等。
 
-本文由[Edison](http://edijason.github.io ）撰写。机型分辨总结是使用XMind软件绘制的原创思维导图。飞机图片均来源于互联网，并进行了裁剪，非作者本人拍摄。本文遵守BY-NC-SA 2.5协议，欢迎转载。
+本文由[Edison](http://edijason.github.io )撰写。机型分辨总结是使用XMind软件绘制的原创思维导图。飞机图片均来源于互联网，如Airliners[2]，并进行了裁剪，非作者本人拍摄。本文遵守BY-NC-SA 2.5协议，欢迎转载。
 
 ---
 
@@ -20,25 +20,25 @@ categories: CA
 
 ![Boeing](/res/images/2015-8-28-ca-airplanes/boeing.jpg "Boeing")
 
-波音公司[2]成立于1916年7月1日，总部设于美国伊利诺伊州芝加哥。1997年原波音公司与麦克唐纳·道格拉斯公司（麦道）合并，成为世界上航空航天领域规模最大的公司。民航客机由旗下波音民用飞机集团（BCA）生产。
+波音公司[3]成立于1916年7月1日，总部设于美国伊利诺伊州芝加哥。1997年原波音公司与麦克唐纳·道格拉斯公司（麦道）合并，成为世界上航空航天领域规模最大的公司。民航客机由旗下波音民用飞机集团（BCA）生产。
 
 ### 1.2 空中客车公司 Airbus S.A.S
 
 ![Airbus](/res/images/2015-8-28-ca-airplanes/airbus.jpg "Airbus")
 
-空中客车公司[3]于1970年在法国成立，由德国、法国、西班牙与英国共同创立空客工业集团，开展空中客车A300研制工作，这是继协和飞机之后欧洲的第2个主要的联合研制飞机计划。2001年成立空中客车公司，隶属母公司欧洲宇航防务集团（EADS），总部设于法国图卢兹，中国天津建有装配厂，第一家中国装配的A320与2009年6月交付四川航空。
+空中客车公司[4]于1970年在法国成立，由德国、法国、西班牙与英国共同创立空客工业集团，开展空中客车A300研制工作，这是继协和飞机之后欧洲的第2个主要的联合研制飞机计划。2001年成立空中客车公司，隶属母公司欧洲宇航防务集团（EADS），总部设于法国图卢兹，中国天津建有装配厂，第一家中国装配的A320与2009年6月交付四川航空[5]。
 
 ### 1.3 庞巴迪宇航公司Bombardier Aerospace
 
 ![Bombardier](/res/images/2015-8-28-ca-airplanes/bombardier.jpg "Bombardier")
 
-庞巴迪宇航公司[4]收购专家和转亏为盈专家加拿大庞巴迪公司的子公司，创立于1986年。按员工人数，是全球第三大的飞机制造商，仅次于波音及空中客车；按年度付运量，是全球第四大商业飞机制造商，仅次于波音、空中客车及巴西航空工业。
+庞巴迪宇航公司[6]收购专家和转亏为盈专家加拿大庞巴迪公司的子公司，创立于1986年。按员工人数，是全球第三大的飞机制造商，仅次于波音及空中客车；按年度付运量，是全球第四大商业飞机制造商，仅次于波音、空中客车及巴西航空工业。
 
-### 1.4 巴西航空工业公司 Embraer S.A.】
+### 1.4 巴西航空工业公司 Embraer S.A.
 
 ![Embraer](/res/images/2015-8-28-ca-airplanes/embraer.jpg "Embraer")
 
-巴西航空工业公司[5]成立于1969年，总部位于巴西圣保罗州，现为全球最大的120座级以下商用喷气飞机制造商，占世界支线飞机市场约45%市场份额。
+巴西航空工业公司[7]成立于1969年，总部位于巴西圣保罗州，现为全球最大的120座级以下商用喷气飞机制造商，占世界支线飞机市场约45%市场份额。
 
 ---
 
@@ -60,7 +60,7 @@ categories: CA
 
 #### 2.1.1 四引擎
 
-四引擎的波音客机是747或者707。这二者很好区分，707已经极其少见，747的机头是双层鹅型头，美国总统座机空军一号（Air Force One）[6]和可以应对世界末日（←_←）和核危机的末日飞机（Doomsday Plane）[7]都是747型号。747也是我最爱的机型。
+四引擎的波音客机是747或者707。这二者很好区分，707已经极其少见，747的机头是双层鹅型头，美国总统座机空军一号（Air Force One）[7]和可以应对世界末日和核危机的末日飞机（Doomsday Plane）[8]都是747型号。747也是我最爱的机型。747客机的最新型号为747-8，于2011年3月21日首飞成功[9]，第一架商用747-8于2012年5月1日交付德国的汉莎航空[10]。
 
 * 波音747
 
@@ -111,7 +111,7 @@ categories: CA
 
 #### 2.2.1 四引擎
 
- 空客四引擎只有A340和A380两种机型。这两种也很好辨认。A380（上图）是目前世界上载客量最大的客机，宽体双层，被誉为空中巨无霸。中国南方航空公司总共订购了五架A380[8]，前两架以投入运营，飞北京-广州和北京-上海。第三架也已交付并刚刚投入使用，执飞北京-香港[9]。
+ 空客四引擎只有A340和A380两种机型。这两种也很好辨认。A380（上图）是目前世界上载客量最大的客机，宽体双层，采用劳斯莱斯Trend 900发动机，被誉为空中巨无霸。A380的原型机（序号为001，登记号码为F-WWOW）于2005年4月27日完成首飞[11]。首架商业A380于2007年10月15日交付给新加坡航空[12]。
  
  ![Airbus A380](/res/images/2015-8-28-ca-airplanes/A380.jpg "Airbus A380")
  
@@ -140,11 +140,11 @@ categories: CA
 
 ### 2.3 补充机型
 
-* 波音787。又称梦想客机（Dreamliner），中型双发（动机）宽体中远程运输机，已交付日本使用。中国第一架787预计将于今年中旬交付中国南方航空公司[10]。
+* 波音787。又称梦想客机（Dreamliner），中型双发（动机）宽体中远程运输机，于2009年12月15日首飞[13]。第一架商用787于2011年9月26日交付全日空[14]。中国第一架787于2013年6月2日交付南航[15]。
 
 ![Boeing 787](/res/images/2015-8-28-ca-airplanes/787.jpg "Boeing 787")
 
-* 空客A350。为了与波音787进行竞争而研制的双发远程宽体客机，基于空客A330机型进行改进，尚未正式投入生产和运营。
+* 空客A350。为了与波音787进行竞争而研制的双发远程宽体客机，基于空客A330机型进行改进。A350XWB于2013年6月14日完成首航，第一架A350于2014年12月22日交付卡塔尔航空[16]。
 
 ![Airbus A350](/res/images/2015-8-28-ca-airplanes/A350.jpg "Airbus A350")
 
@@ -161,13 +161,13 @@ categories: CA
 
 国内九大航空公司是指：中国国际航空、中国南方航空、中国东方航空、上海航空、海南航空（大新华航空）、山东航空、四川航空、厦门航空、深圳航空。
  
-（春秋航空是民营航空公司，不属于民航或者中航信，其销售不进中国民航GDS预订系统，使用自主开发的销售和离港系统。所以春秋航空的登机通道和售票方式与其它航空公司不一样）
+春秋航空是民营航空公司，不属于民航或者中航信，其销售不进中国民航GDS预订系统，使用自主开发的销售和离港系统。所以春秋航空的登机通道和售票方式与其它航空公司不一样。除春秋以外目前国内还有5家廉价航空公司：西部航空公司、中国联合航空公司、九元航空、幸福航空、成都航空。
 
 ### 3.1 机头吐槽
 
 ![Planeheads](/res/images/2015-8-28-ca-airplanes/planeshead.jpg "机头对比")
 
-图片来源[11]。从左到右从上到下：山航、东航、厦航；邮政航空、南航、国航；大新华、川航、海航。
+图片来源[17]。从左到右从上到下：山航、东航、厦航；邮政航空、南航、国航；大新华、川航、海航。
 
 
 ### 3.2 机身标准涂装
@@ -236,10 +236,27 @@ categories: CA
 
 ---
 
+## 4 航空联盟
 
-## 4 IATA机场代码
+* 星空联盟（Star Alliance）[18]
 
-机场代码分为IATA代码（三字码）和ICAO代码（四字码）。这里列举几个国内主要机场的IATA三字码，其它机场可以在[12]上查询。
+成立于1997年5月14日，是历史最悠久、规模最大的航空公司联盟，总部位于德国法兰克福。成立时包含5家航空公司：美国联航、德国汉莎、加拿大航空、北欧航空、泰航。目前已发展至26家航空公司，主要成员还包括：全日空、土耳其航空、瑞士国际航空、韩亚、国航、深航、长荣等。
+
+* 天合联盟（SkyTeam）[19]
+
+2000年6月22日由法航、达美、墨西哥国际航空和大韩4家航空公司联合成立，目前拥有20家航空公司，是迄今最年轻、规模第二大的航空联盟，总部位于荷兰阿姆斯特丹。主要成员还包括：俄罗斯航空、意大利航空、东航、南航、厦门航空、华航等。
+
+* 寰宇一家（oneworld）[20]
+
+成立于1999年，目前总部位于美国纽约，拥有15家成员航空公司，主要包括：美国航空、英国航空、马航、澳洲航空、芬兰航空、日本航空、国泰、卡塔尔航空等。
+
+---
+
+## 5 机场
+
+### 5.1 机场代码
+
+机场代码分为IATA代码（三字码）和ICAO代码（四字码）。这里列举几个国内主要机场的IATA三字码，其它机场可以在[21]上查询。
 
 * 北京：首都国际机场 PEK
 
@@ -257,6 +274,11 @@ categories: CA
 
 * 香港：香港国际机场 HKG
 
+### 5.2 2014年全国各机场运营数据排名[22]
+
+
+<table cellspacing="0" class="t_table" style="width:98%"><tr><td width="67">客运排名</td><td width="67"><div align="left">去年排名</div></td><td width="132"><div align="left">机场名称</div></td><td width="132"><div align="left">旅客吞吐量（万人）</div></td><td width="91"><div align="left">去年</div></td><td width="78"><div align="left">增幅</div></td><td width="72"><div align="left">货运排名</div></td><td width="128"><div align="left">货运吞吐量（万吨）</div></td><td width="57"><div align="left">增幅</div></td></tr><tr><td>1</td><td><div align="left">1</div></td><td><div align="left">北京首都机场</div></td><td><div align="left">8612.83</div></td><td><div align="left">8371.2355</div></td><td><div align="left">2.89</div></td><td><div align="left">2</div></td><td><div align="left">184.83</div></td><td><div align="left">0.3</div></td></tr><tr><td>2</td><td><div align="left">2</div></td><td><div align="left">广州白云机场</div></td><td><div align="left">5478.28</div></td><td><div align="left">5245.0262</div></td><td><div align="left">4.45</div></td><td><div align="left">3</div></td><td><div align="left">144.89</div></td><td><div align="left">10.6</div></td></tr><tr><td>3</td><td><div align="left">3</div></td><td><div align="left">上海浦东机场</div></td><td><div align="left">5166.18</div></td><td><div align="left">4718.9849</div></td><td><div align="left">9.48</div></td><td><div align="left">1</div></td><td><div align="left">317.82</div></td><td><div align="left">8.5</div></td></tr><tr><td>4</td><td><div align="left">4</div></td><td><div align="left">上海虹桥机场</div></td><td><div align="left">3796.02</div></td><td><div align="left">3559.9643</div></td><td><div align="left">6.63</div></td><td><div align="left">6</div></td><td><div align="left">43.2</div></td><td><div align="left">-0.7</div></td></tr><tr><td>5</td><td><div align="left">5</div></td><td><div align="left">成都双流机场</div></td><td><div align="left">3750.7609</div></td><td><div align="left">3344.4618</div></td><td><div align="left">12.15</div></td><td><div align="left">5</div></td><td><div align="left">54.5</div></td><td><div align="left">8.5</div></td></tr><tr><td>6</td><td><div align="left">6</div></td><td><div align="left">深圳宝安机场</div></td><td><div align="left">3627.25</div></td><td><div align="left">3226.8457</div></td><td><div align="left">12.41</div></td><td><div align="left">4</div></td><td><div align="left">96.38</div></td><td><div align="left">5.5</div></td></tr><tr><td>7</td><td><div align="left">7</div></td><td><div align="left">昆明长水机场</div></td><td><div align="left">3229.8</div></td><td><div align="left">2968.8297</div></td><td><div align="left">8.79</div></td><td><div align="left">9</div></td><td><div align="left">31.67</div></td><td><div align="left">7.8</div></td></tr><tr><td>8</td><td><div align="left">9</div></td><td><div align="left">重庆江北机场</div></td><td><div align="left">2926.44</div></td><td><div align="left">2527.2039</div></td><td><div align="left">15.80</div></td><td><div align="left">12</div></td><td><div align="left">30.23</div></td><td><div align="left">7.9</div></td></tr><tr><td>9</td><td><div align="left">8</div></td><td><div align="left">西安咸阳机场</div></td><td><div align="left">2926.02</div></td><td><div align="left">2604.4673</div></td><td><div align="left">12.35</div></td><td><div align="left">15</div></td><td><div align="left">18.64</div></td><td><div align="left">4.2</div></td></tr><tr><td>10</td><td><div align="left">10</div></td><td><div align="left">杭州萧山机场</div></td><td><div align="left">2552.6</div></td><td><div align="left">2211.4103</div></td><td><div align="left">15.43</div></td><td><div align="left">7</div></td><td><div align="left">39.86</div></td><td><div align="left">8.3</div></td></tr><tr><td>11</td><td><div align="left">11</div></td><td><div align="left">厦门高崎机场</div></td><td><div align="left">2086.4</div></td><td><div align="left">1975.3016</div></td><td><div align="left">5.62</div></td><td><div align="left">10</div></td><td><div align="left">30.64</div></td><td><div align="left">2.3</div></td></tr><tr><td>12</td><td><div align="left">12</div></td><td><div align="left">长沙黄花机场</div></td><td><div align="left">1802.05</div></td><td><div align="left">1600.7212</div></td><td><div align="left">12.58</div></td><td><div align="left">19</div></td><td><div align="left">12.5</div></td><td><div align="left">6.3</div></td></tr><tr><td>13</td><td><div align="left">13</div></td><td><div align="left">武汉天河机场</div></td><td><div align="left">1727.7</div></td><td><div align="left">1570.6063</div></td><td><div align="left">10.00</div></td><td><div align="left">17</div></td><td><div align="left">14.3</div></td><td><div align="left">10.5</div></td></tr><tr><td>14</td><td><div align="left">16</div></td><td><div align="left">青岛流亭机场</div></td><td><div align="left">1641.2</div></td><td><div align="left">1451.6669</div></td><td><div align="left">13.06</div></td><td><div align="left">14</div></td><td><div align="left">20.44</div></td><td><div align="left">9.8</div></td></tr><tr><td>15</td><td><div align="left">14</div></td><td><div align="left">乌鲁木齐地窝堡机场</div></td><td><div align="left">1631.1</div></td><td><div align="left">1535.917</div></td><td><div align="left">6.20</div></td><td><div align="left">16</div></td><td><div align="left">16.27</div></td><td><div align="left">6.2</div></td></tr><tr><td>16</td><td><div align="left">15</div></td><td><div align="left">南京禄口机场</div></td><td><div align="left">1628.2</div></td><td><div align="left">1501.1792</div></td><td><div align="left">8.46</div></td><td><div align="left">11</div></td><td><div align="left">30.42</div></td><td><div align="left">18.9</div></td></tr><tr><td>17</td><td><div align="left">18</div></td><td><div align="left">郑州新郑机场</div></td><td><div align="left">1580.54</div></td><td><div align="left">1313.9994</div></td><td><div align="left">20.28</div></td><td><div align="left">8</div></td><td><div align="left">37.05</div></td><td><div align="left">44.9</div></td></tr><tr><td>18</td><td><div align="left">19</div></td><td><div align="left">三亚凤凰机场</div></td><td><div align="left">1494.3</div></td><td><div align="left">1286.6869</div></td><td><div align="left">16.14</div></td><td><div align="left">22</div></td><td><div align="left">7.56</div></td><td><div align="left">20.2</div></td></tr><tr><td>19</td><td><div align="left">21</div></td><td><div align="left">海口美兰机场</div></td><td><div align="left">1385.3</div></td><td><div align="left">1193.547</div></td><td><div align="left">16.07</div></td><td><div align="left">13</div></td><td><div align="left">12.11</div></td><td><div align="left">8.3</div></td></tr><tr><td>20</td><td><div align="left">17</div></td><td><div align="left">大连周水子机场</div></td><td><div align="left">1355.1</div></td><td><div align="left">1408.3131</div></td><td><div align="left">-3.78</div></td><td><div align="left">18</div></td><td><div align="left">13.35</div></td><td><div align="left">0.8</div></td></tr></table><br/>
+
 
 ---
 
@@ -265,25 +287,46 @@ categories: CA
 
 [1] [飞机型号辨认手册](http://www.docin.com/p-286150117.html )
 
-[2] [Boeing, Wikipedia] (https://en.wikipedia.org/wiki/Boeing )
+[2] [Airliners](http://www.airliners.net )
 
-[3] [Airbus, Wikipedia] (https://en.wikipedia.org/wiki/Airbus )
+[3] [Boeing, Wikipedia](https://en.wikipedia.org/wiki/Boeing )
 
-[4] [Bombardier Aerospace, Wikipedia](https://en.wikipedia.org/wiki/Bombardier_Aerospace )
+[4] [Airbus, Wikipedia](https://en.wikipedia.org/wiki/Airbus )
 
-[5] [Embraer, Wikipedia](https://en.wikipedia.org/wiki/Embraer )
+[5] [首架中国总装空客A320正式落户四川航空](http://mil.sohu.com/20090624/n264715968.shtml )
 
-[6] [Air Force One, Wikipedia](https://en.wikipedia.org/wiki/Air_Force_One )
+[6] [Bombardier Aerospace, Wikipedia](https://en.wikipedia.org/wiki/Bombardier_Aerospace )
 
-[7] [Boeing E-4, Wikipedia](https://en.wikipedia.org/wiki/Boeing_E-4 )
+[7] [Embraer, Wikipedia](https://en.wikipedia.org/wiki/Embraer )
 
-[8] [南航2013年前接收5架A380飞机](http://www.caijing.com.cn/2011-08-25/110826383.html )
+[7] [Air Force One, Wikipedia](https://en.wikipedia.org/wiki/Air_Force_One )
 
-[9] [南航第三架A380昨起执飞京港航线](http://finance.people.com.cn/GB/70846/17283744.html )
+[8] [Boeing E-4, Wikipedia](https://en.wikipedia.org/wiki/Boeing_E-4 )
 
-[10] [国内首架波音787将花落南航](http://group.csair.com/_layouts/groupportal2010/pages/NewsDetail.aspx?itemid=503&ListName=%u54c1%u724c%u5efa%u8bbe&isNewsTopics=true )
+[9] [波音747-8洲际客机成功首飞 首架今年年底交付](http://mil.news.sina.com.cn/s/2011-03-21/1021638622.html )
 
-[11] [@小弯的卡脑壳, 新浪微博](http://weibo.com/1408062384/xCLvCDqol?type=comment#_rnd1440749615847 )
+[10] [波音将首架747-8洲际客机交付汉莎航空使用](http://sky.news.sina.com.cn/2012-05-02/095717216.html )
 
-[12] [World Airport Code](https://world-airport-codes.com/ )
+[11] [世界最大客机空客A380顺利完成首飞](http://mil.news.sina.com.cn/2005-04-27/2122284053.html )
 
+[12] [空中客车公司首架A380交付新加坡航空公司](http://mil.news.sina.com.cn/2007-10-16/0947467774.html )
+
+[13] [波音公司787梦想客机首飞海外亮相英国航展](http://mil.news.sina.com.cn/s/2010-07-19/0800601303.html )
+
+[14] [全球首架波音787正式交付使用](http://news.163.com/photoview/00AO0001/17808.html )
+
+[15] [中国首架波音787梦想飞机交付南航](http://news.xinhuanet.com/fortune/2013-06/01/c_115997410.htm )
+
+[16] [Airbus A350 XWB, Wikipedia](https://en.wikipedia.org/wiki/Airbus_A350_XWB )
+
+[17] [@小弯的卡脑壳, 新浪微博](http://weibo.com/1408062384/xCLvCDqol?type=comment#_rnd1440749615847 )
+
+[18] [Star Alliance, Wikipedia](https://en.wikipedia.org/wiki/Star_Alliance )
+
+[19] [SkyTeam, Wikipedia](https://en.wikipedia.org/wiki/SkyTeam )
+
+[20] [Oneworld, Wikipedia](https://en.wikipedia.org/wiki/Oneworld )
+
+[21] [World Airport Code](https://world-airport-codes.com/ )
+
+[22] [2014年全国各机场运营数据汇总（统计数据完成排名）](http://bbs.9ifly.cn/thread-14423-1-1.html )
