@@ -58,7 +58,7 @@ categories: CA
 
 ### 2.1 波音客机机型
 
-#### 四引擎
+#### 2.1.1 四引擎
 
 四引擎的波音客机是747或者707。这二者很好区分，707已经极其少见，747的机头是双层鹅型头，美国总统座机空军一号（Air Force One）[6]和可以应对世界末日（←_←）和核危机的末日飞机（Doomsday Plane）[7]都是747型号。747也是我最爱的机型。
 
@@ -70,23 +70,23 @@ categories: CA
 
 ![Boeing 707](/res/images/2015-8-28-ca-airplanes/707.jpg "Boeing 707")
 
-#### 三引擎
+#### 2.1.2 三引擎
 
 肯定是727，三个引擎全在机尾。已停产。
 
 ![Boeing 737](/res/images/2015-8-28-ca-airplanes/737.jpg "Boeing 737")
 
-#### 双引擎
+#### 2.1.3 双引擎
 
 双引擎的波音飞机很多，而且不易分辨。首先看引擎位置。
 
-##### 双引擎在机尾不在机翼下
+#### 双引擎在机尾不在机翼下
 
 这种飞机肯定是717，是原麦道公司的MD-95机型（引擎在机尾是麦道飞机的最大特点之一）。现已停产。
 
 ![Boeing 717](/res/images/2015-8-28-ca-airplanes/717.jpg "Boeing 717")
 
-##### 双引擎在机翼下
+#### 双引擎在机翼下
 
 大部分双引擎机型的引擎都位于机翼下，接下来通过起落架（指后部起落架）来判断。
 
@@ -94,7 +94,7 @@ categories: CA
 
 ![Boeing 777](/res/images/2015-8-28-ca-airplanes/777.jpg "Boeing 777")
 
-* 单侧双轮。从侧面看每组起落架每排两个轮子，可能是757或者767两种情况。757机型较长，偏瘦；767给人较肥的感觉，相对757较短。
+* 单侧双轮。从侧面看每组起落架每排两个轮子，可能是757或者767两种情况。757机型（上图）较长，偏瘦；767（下图）给人较肥的感觉，相对757较短。
 
 ![Boeing 757](/res/images/2015-8-28-ca-airplanes/757.jpg "Boeing 757")
 
@@ -109,15 +109,15 @@ categories: CA
 
 空客飞机同样先看引擎。但是空客没有三引擎机型，全是翼吊式双引擎或者四引擎。
 
-#### 四引擎
+#### 2.2.1 四引擎
 
- 空客四引擎只有A340和A380两种机型。这两种也很好辨认。A380是目前世界上载客量最大的客机，宽体双层，被誉为空中巨无霸。中国南方航空公司总共订购了五架A380[8]，前两架以投入运营，飞北京-广州和北京-上海。第三架也已交付并刚刚投入使用，执飞北京-香港[9]。
+ 空客四引擎只有A340和A380两种机型。这两种也很好辨认。A380（上图）是目前世界上载客量最大的客机，宽体双层，被誉为空中巨无霸。中国南方航空公司总共订购了五架A380[8]，前两架以投入运营，飞北京-广州和北京-上海。第三架也已交付并刚刚投入使用，执飞北京-香港[9]。
  
  ![Airbus A380](/res/images/2015-8-28-ca-airplanes/A380.jpg "Airbus A380")
  
  ![Airbus A340](/res/images/2015-8-28-ca-airplanes/A340.jpg "Airbus A340")
 
-#### 双引擎
+#### 2.2.2 双引擎
 
 双引擎的空客机型都比较接近，仍旧需要利用起落架进行判断。
 
@@ -131,7 +131,7 @@ categories: CA
 
 ![Airbus A330](/res/images/2015-8-28-ca-airplanes/A330.jpg "Airbus A330")
 
-* 最后剩下A310和A300，这两种机型的分辨要靠门。A310的第二扇门在翅膀上，比起的一扇门要小一些。而A300的第二扇门没有在翅膀上，并且和第一扇门一样大。
+* 最后剩下A310和A300，这两种机型的分辨要靠门。A310（上图）的第二扇门在翅膀上，比起的一扇门要小一些。而A300（下图）的第二扇门没有在翅膀上，并且和第一扇门一样大。
 
 ![Airbus A310](/res/images/2015-8-28-ca-airplanes/A310.jpg "Airbus A310")
 
@@ -174,16 +174,27 @@ categories: CA
 
 涂装演示机型以空客A380和我最喜欢的波音747机型为主。
 
+* 中国国际航空（Air China，国航）波音747。
+
 ![AirChina](/res/images/2015-8-28-ca-airplanes/ca_airchina.jpg "中国国际航空（Air China，国航）波音747")
+
+* 中华航空（华航，China Airlines，台湾的航空公司，注意不要和国航混淆）波音747。
 
 ![ChinaAirlines](/res/images/2015-8-28-ca-airplanes/ca_chinaairlines.jpg "华航空（华航，China Airlines，台湾的航空公司，注意不要和国航混淆）波音747")
 
+* 南方航空空客A380。
 
 ![Southern](/res/images/2015-8-28-ca-airplanes/ca_chinasouthen.jpg "南方航空空客A380")
 
+* 东方航空波音747（机身上的Cargo代表货运机）。
+
 ![Eastern](/res/images/2015-8-28-ca-airplanes/ca_chinaeastern.jpg "东方航空波音747（机身上的Cargo代表货运机）")
 
+* 国泰航空（香港）波音747。
+
 ![CathayPacific](/res/images/2015-8-28-ca-airplanes/ca_cathaypacific.jpg "国泰航空（香港）波音747")
+
+* 顺丰航空（没错，是SF顺丰）。
 
 ![SF](/res/images/2015-8-28-ca-airplanes/ca_sf.jpg "顺丰航空（没错，是SF顺丰）")
 
@@ -191,19 +202,35 @@ categories: CA
 
 目前拥有空客A380的航空公司，除了中国的南航，主要还包括（注：数据未考证）：新加坡航空公司（13架）、阿联酋航空公司（15架）、澳洲航空公司（10架）、法国航空公司（6架）、汉莎航空公司（8架）、大韩航空公司（4架）等。
 
+* 德国的汉莎航空（Lufthansa）空客A380（我最喜欢的航空公司之一）。
+
 ![Lufthansa](/res/images/2015-8-28-ca-airplanes/ca_lufthansa.jpg "德国的汉莎航空（Lufthansa）空客A380（我最喜欢的航空公司之一）")
+
+* 新加坡航空（Singapore Airlines）空客A380。
 
 ![Singapore](/res/images/2015-8-28-ca-airplanes/ca_singaporeairlines.jpg "新加坡航空（Singapore Airlines）空客A380")
 
+* 澳洲航空（Qantas Airways）空客A380。
+
 ![Qantas](/res/images/2015-8-28-ca-airplanes/ca_qantas.jpg "澳洲航空（Qantas Airways）空客A380")
+
+* 大韩航空（Korean Air）空客A380。
 
 ![Korean Air](/res/images/2015-8-28-ca-airplanes/ca_korean.jpg "大韩航空（Korean Air）空客A380")
 
+* 卡塔尔航空（Qatar Airways）空客A380。
+
 ![Qatar](/res/images/2015-8-28-ca-airplanes/ca_qatar.jpg "卡塔尔航空（Qatar Airways）空客A380")
+
+* 荷兰皇家航空（KLM）波音747（我最喜欢的航空公司之一）。
 
 ![KLM](/res/images/2015-8-28-ca-airplanes/ca_klm.jpg "荷兰皇家航空（KLM）波音747（我最喜欢的航空公司之一）")
 
+* 全日航空（ANA）波音747（忽略宠物小精灵就是标准涂装）。
+
 ![ANA](/res/images/2015-8-28-ca-airplanes/ca_ana.jpg "全日航空（ANA）波音747（忽略宠物小精灵就是标准涂装）")
+
+* 达美航空（Delta Airlines）波音747。
 
 ![Delta](/res/images/2015-8-28-ca-airplanes/ca_delta.jpg "达美航空（Delta Airlines）波音747")
 
