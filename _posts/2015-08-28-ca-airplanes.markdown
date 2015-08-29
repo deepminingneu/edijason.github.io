@@ -9,7 +9,7 @@ categories: "CA"
 ## 0. 声明
 感谢3HA510的工作，让我有想法对民航客机机型重新进行整理。本文的内容主要来源于3HA510的原创手册[1]、维基百科和Google。介绍民航制造商、波音和空客区分技巧、部分航空公司飞机标准涂装、机场代码等。
 
-本文由[Edison](http://edijason.github.io )撰写。机型分辨总结是使用XMind软件绘制的原创思维导图。飞机图片均来源于互联网，如Airliners[2]，并进行了裁剪，非作者本人拍摄。本文遵守BY-NC-SA 2.5协议，欢迎转载。
+本文由[Edison](http://edijason.github.io )撰写，首稿于2012年3月14日发表在[人人网](http://blog.renren.com/blog/221751271/812221084 )，本版更新了一些数据，增加了机型编队、机场排名等信息。机型分辨总结导图使用XMind绘制，图片均来源于互联网，如Airliners[2]，并进行了裁剪，非作者本人拍摄。本文遵守BY-NC-SA 2.5协议，欢迎转载。
 
 ---
 
@@ -159,7 +159,7 @@ categories: "CA"
 
 ## 3 国内航空公司
 
-国内九大航空公司是指：中国国际航空、中国南方航空、中国东方航空、上海航空、海南航空（大新华航空）、山东航空、四川航空、厦门航空、深圳航空。
+国内九大航空公司是指：中国国际航空、中国南方航空、中国东方航空、上海航空、海南航空、山东航空、四川航空、厦门航空、深圳航空。
  
 春秋航空是民营航空公司，不属于民航或者中航信，其销售不进中国民航GDS预订系统，使用自主开发的销售和离港系统。所以春秋航空的登机通道和售票方式与其它航空公司不一样。除春秋以外目前国内还有5家廉价航空公司：西部航空公司、中国联合航空公司、九元航空、幸福航空、成都航空。
 
@@ -234,6 +234,237 @@ categories: "CA"
 
 ![Delta](/res/images/2015-8-28-ca-airplanes/ca_delta.jpg "达美航空（Delta Airlines）波音747")
 
+### 3.4 国内主要航空公司机队编制
+
+数据统计自2015年8月28日各航空公司的Wikipedia页面。
+
+<table border="1">
+  <tr align="center">
+    <td nowrap="nowrap"><strong>机型</strong></td>
+    <td nowrap="nowrap"><strong>国航</strong></td>
+    <td nowrap="nowrap"><strong>南航</strong></td>
+    <td nowrap="nowrap"><strong>东航</strong></td>
+    <td nowrap="nowrap"><strong>海航</strong></td>
+    <td nowrap="nowrap"><strong>厦航</strong></td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">A319-100</td>
+    <td>30</td>
+    <td>43</td>
+    <td>28（1）</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">A320-200</td>
+    <td>39（19）</td>
+    <td>122（9）</td>
+    <td>155（68）</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">A320neo</td>
+    <td>X（19）</td>
+    <td>X（80）</td>
+    <td>X（70）</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">A321-200</td>
+    <td>49（9）</td>
+    <td>75（12）</td>
+    <td>39</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">A330-200</td>
+    <td>30</td>
+    <td>16</td>
+    <td>32（5）</td>
+    <td>9</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">A330-300</td>
+    <td>19（4）</td>
+    <td>15（4）</td>
+    <td>17</td>
+    <td>9（3）</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">A350</td>
+    <td>X（10）</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">A380</td>
+    <td>X</td>
+    <td>5</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap"><strong>空客总计</strong></td>
+    <td><strong>167（61）</strong></td>
+    <td><strong>276（121）</strong></td>
+    <td><strong>232（144）</strong></td>
+    <td><strong>18（3）</strong></td>
+    <td><strong>X</strong></td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">737-300</td>
+    <td>X</td>
+    <td>3</td>
+    <td>16</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">737-700</td>
+    <td>21</td>
+    <td>50</td>
+    <td>48</td>
+    <td>6</td>
+    <td>17</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">737-800</td>
+    <td>104（13）</td>
+    <td>208（30）</td>
+    <td>44（26）</td>
+    <td>104（5）</td>
+    <td>91（58）</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">737 MAX 8</td>
+    <td>X（60）</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X（30）</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">747-400</td>
+    <td>4</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">747-400F</td>
+    <td>3</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">747-8I </td>
+    <td>6（1）</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">757-200</td>
+    <td>X</td>
+    <td>19</td>
+    <td>X</td>
+    <td>X</td>
+    <td>6</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">767-300</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>3</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">777-200</td>
+    <td>10</td>
+    <td>4</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">777-300</td>
+    <td>20</td>
+    <td>5（5）</td>
+    <td>6（14）</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">777-FFT</td>
+    <td>6（2）</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+    <tr align="center">
+    <td nowrap="nowrap">787-8</td>
+    <td>X</td>
+    <td>12</td>
+    <td>X</td>
+    <td>10</td>
+    <td>5（5）</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">787-9</td>
+    <td>X（15）</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X（30）</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap"><strong>波音总计</strong></td>
+    <td><strong>174（91）</strong></td>
+    <td><strong>301（35）</strong></td>
+    <td><strong>114（40）</strong></td>
+    <td><strong>123（30）</strong></td>
+    <td><strong>119（93）</strong></td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">C919|</td>
+    <td>X（20）</td>
+    <td>X（20）</td>
+    <td>X（20）</td>
+    <td>X（20）</td>
+    <td>X（6）</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap">E190|</td>
+    <td>X</td>
+    <td>25</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr align="center">
+    <td nowrap="nowrap"><strong>总计</strong></td>
+    <td><strong>341（122）</strong></td>
+    <td><strong>577（201）</strong></td>
+    <td><strong>346（204）</strong></td>
+    <td><strong>141（53）</strong></td>
+    <td><strong>119（99）</strong></td>
+  </tr>
+</table>
+
 ---
 
 ## 4 航空联盟
@@ -277,7 +508,7 @@ categories: "CA"
 ### 5.2 2014年全国各机场运营数据排名[22]
 
 
-<table cellspacing="0" class="t_table" style="width:98%"><tr><td width="67">客运排名</td><td width="67"><div align="left">去年排名</div></td><td width="132"><div align="left">机场名称</div></td><td width="132"><div align="left">旅客吞吐量（万人）</div></td><td width="91"><div align="left">去年</div></td><td width="78"><div align="left">增幅</div></td><td width="72"><div align="left">货运排名</div></td><td width="128"><div align="left">货运吞吐量（万吨）</div></td><td width="57"><div align="left">增幅</div></td></tr><tr><td>1</td><td><div align="left">1</div></td><td><div align="left">北京首都机场</div></td><td><div align="left">8612.83</div></td><td><div align="left">8371.2355</div></td><td><div align="left">2.89</div></td><td><div align="left">2</div></td><td><div align="left">184.83</div></td><td><div align="left">0.3</div></td></tr><tr><td>2</td><td><div align="left">2</div></td><td><div align="left">广州白云机场</div></td><td><div align="left">5478.28</div></td><td><div align="left">5245.0262</div></td><td><div align="left">4.45</div></td><td><div align="left">3</div></td><td><div align="left">144.89</div></td><td><div align="left">10.6</div></td></tr><tr><td>3</td><td><div align="left">3</div></td><td><div align="left">上海浦东机场</div></td><td><div align="left">5166.18</div></td><td><div align="left">4718.9849</div></td><td><div align="left">9.48</div></td><td><div align="left">1</div></td><td><div align="left">317.82</div></td><td><div align="left">8.5</div></td></tr><tr><td>4</td><td><div align="left">4</div></td><td><div align="left">上海虹桥机场</div></td><td><div align="left">3796.02</div></td><td><div align="left">3559.9643</div></td><td><div align="left">6.63</div></td><td><div align="left">6</div></td><td><div align="left">43.2</div></td><td><div align="left">-0.7</div></td></tr><tr><td>5</td><td><div align="left">5</div></td><td><div align="left">成都双流机场</div></td><td><div align="left">3750.7609</div></td><td><div align="left">3344.4618</div></td><td><div align="left">12.15</div></td><td><div align="left">5</div></td><td><div align="left">54.5</div></td><td><div align="left">8.5</div></td></tr><tr><td>6</td><td><div align="left">6</div></td><td><div align="left">深圳宝安机场</div></td><td><div align="left">3627.25</div></td><td><div align="left">3226.8457</div></td><td><div align="left">12.41</div></td><td><div align="left">4</div></td><td><div align="left">96.38</div></td><td><div align="left">5.5</div></td></tr><tr><td>7</td><td><div align="left">7</div></td><td><div align="left">昆明长水机场</div></td><td><div align="left">3229.8</div></td><td><div align="left">2968.8297</div></td><td><div align="left">8.79</div></td><td><div align="left">9</div></td><td><div align="left">31.67</div></td><td><div align="left">7.8</div></td></tr><tr><td>8</td><td><div align="left">9</div></td><td><div align="left">重庆江北机场</div></td><td><div align="left">2926.44</div></td><td><div align="left">2527.2039</div></td><td><div align="left">15.80</div></td><td><div align="left">12</div></td><td><div align="left">30.23</div></td><td><div align="left">7.9</div></td></tr><tr><td>9</td><td><div align="left">8</div></td><td><div align="left">西安咸阳机场</div></td><td><div align="left">2926.02</div></td><td><div align="left">2604.4673</div></td><td><div align="left">12.35</div></td><td><div align="left">15</div></td><td><div align="left">18.64</div></td><td><div align="left">4.2</div></td></tr><tr><td>10</td><td><div align="left">10</div></td><td><div align="left">杭州萧山机场</div></td><td><div align="left">2552.6</div></td><td><div align="left">2211.4103</div></td><td><div align="left">15.43</div></td><td><div align="left">7</div></td><td><div align="left">39.86</div></td><td><div align="left">8.3</div></td></tr><tr><td>11</td><td><div align="left">11</div></td><td><div align="left">厦门高崎机场</div></td><td><div align="left">2086.4</div></td><td><div align="left">1975.3016</div></td><td><div align="left">5.62</div></td><td><div align="left">10</div></td><td><div align="left">30.64</div></td><td><div align="left">2.3</div></td></tr><tr><td>12</td><td><div align="left">12</div></td><td><div align="left">长沙黄花机场</div></td><td><div align="left">1802.05</div></td><td><div align="left">1600.7212</div></td><td><div align="left">12.58</div></td><td><div align="left">19</div></td><td><div align="left">12.5</div></td><td><div align="left">6.3</div></td></tr><tr><td>13</td><td><div align="left">13</div></td><td><div align="left">武汉天河机场</div></td><td><div align="left">1727.7</div></td><td><div align="left">1570.6063</div></td><td><div align="left">10.00</div></td><td><div align="left">17</div></td><td><div align="left">14.3</div></td><td><div align="left">10.5</div></td></tr><tr><td>14</td><td><div align="left">16</div></td><td><div align="left">青岛流亭机场</div></td><td><div align="left">1641.2</div></td><td><div align="left">1451.6669</div></td><td><div align="left">13.06</div></td><td><div align="left">14</div></td><td><div align="left">20.44</div></td><td><div align="left">9.8</div></td></tr><tr><td>15</td><td><div align="left">14</div></td><td><div align="left">乌鲁木齐地窝堡机场</div></td><td><div align="left">1631.1</div></td><td><div align="left">1535.917</div></td><td><div align="left">6.20</div></td><td><div align="left">16</div></td><td><div align="left">16.27</div></td><td><div align="left">6.2</div></td></tr><tr><td>16</td><td><div align="left">15</div></td><td><div align="left">南京禄口机场</div></td><td><div align="left">1628.2</div></td><td><div align="left">1501.1792</div></td><td><div align="left">8.46</div></td><td><div align="left">11</div></td><td><div align="left">30.42</div></td><td><div align="left">18.9</div></td></tr><tr><td>17</td><td><div align="left">18</div></td><td><div align="left">郑州新郑机场</div></td><td><div align="left">1580.54</div></td><td><div align="left">1313.9994</div></td><td><div align="left">20.28</div></td><td><div align="left">8</div></td><td><div align="left">37.05</div></td><td><div align="left">44.9</div></td></tr><tr><td>18</td><td><div align="left">19</div></td><td><div align="left">三亚凤凰机场</div></td><td><div align="left">1494.3</div></td><td><div align="left">1286.6869</div></td><td><div align="left">16.14</div></td><td><div align="left">22</div></td><td><div align="left">7.56</div></td><td><div align="left">20.2</div></td></tr><tr><td>19</td><td><div align="left">21</div></td><td><div align="left">海口美兰机场</div></td><td><div align="left">1385.3</div></td><td><div align="left">1193.547</div></td><td><div align="left">16.07</div></td><td><div align="left">13</div></td><td><div align="left">12.11</div></td><td><div align="left">8.3</div></td></tr><tr><td>20</td><td><div align="left">17</div></td><td><div align="left">大连周水子机场</div></td><td><div align="left">1355.1</div></td><td><div align="left">1408.3131</div></td><td><div align="left">-3.78</div></td><td><div align="left">18</div></td><td><div align="left">13.35</div></td><td><div align="left">0.8</div></td></tr></table><br/>
+<table cellspacing="0" style="width:98%"><tr><td width="67">客运排名</td><td width="67"><div align="left">去年排名</div></td><td width="132"><div align="left">机场名称</div></td><td width="132"><div align="left">旅客吞吐量（万人）</div></td><td width="91"><div align="left">去年</div></td><td width="78"><div align="left">增幅</div></td><td width="72"><div align="left">货运排名</div></td><td width="128"><div align="left">货运吞吐量（万吨）</div></td><td width="57"><div align="left">增幅</div></td></tr><tr><td>1</td><td><div align="left">1</div></td><td><div align="left">北京首都机场</div></td><td><div align="left">8612.83</div></td><td><div align="left">8371.2355</div></td><td><div align="left">2.89</div></td><td><div align="left">2</div></td><td><div align="left">184.83</div></td><td><div align="left">0.3</div></td></tr><tr><td>2</td><td><div align="left">2</div></td><td><div align="left">广州白云机场</div></td><td><div align="left">5478.28</div></td><td><div align="left">5245.0262</div></td><td><div align="left">4.45</div></td><td><div align="left">3</div></td><td><div align="left">144.89</div></td><td><div align="left">10.6</div></td></tr><tr><td>3</td><td><div align="left">3</div></td><td><div align="left">上海浦东机场</div></td><td><div align="left">5166.18</div></td><td><div align="left">4718.9849</div></td><td><div align="left">9.48</div></td><td><div align="left">1</div></td><td><div align="left">317.82</div></td><td><div align="left">8.5</div></td></tr><tr><td>4</td><td><div align="left">4</div></td><td><div align="left">上海虹桥机场</div></td><td><div align="left">3796.02</div></td><td><div align="left">3559.9643</div></td><td><div align="left">6.63</div></td><td><div align="left">6</div></td><td><div align="left">43.2</div></td><td><div align="left">-0.7</div></td></tr><tr><td>5</td><td><div align="left">5</div></td><td><div align="left">成都双流机场</div></td><td><div align="left">3750.7609</div></td><td><div align="left">3344.4618</div></td><td><div align="left">12.15</div></td><td><div align="left">5</div></td><td><div align="left">54.5</div></td><td><div align="left">8.5</div></td></tr><tr><td>6</td><td><div align="left">6</div></td><td><div align="left">深圳宝安机场</div></td><td><div align="left">3627.25</div></td><td><div align="left">3226.8457</div></td><td><div align="left">12.41</div></td><td><div align="left">4</div></td><td><div align="left">96.38</div></td><td><div align="left">5.5</div></td></tr><tr><td>7</td><td><div align="left">7</div></td><td><div align="left">昆明长水机场</div></td><td><div align="left">3229.8</div></td><td><div align="left">2968.8297</div></td><td><div align="left">8.79</div></td><td><div align="left">9</div></td><td><div align="left">31.67</div></td><td><div align="left">7.8</div></td></tr><tr><td>8</td><td><div align="left">9</div></td><td><div align="left">重庆江北机场</div></td><td><div align="left">2926.44</div></td><td><div align="left">2527.2039</div></td><td><div align="left">15.80</div></td><td><div align="left">12</div></td><td><div align="left">30.23</div></td><td><div align="left">7.9</div></td></tr><tr><td>9</td><td><div align="left">8</div></td><td><div align="left">西安咸阳机场</div></td><td><div align="left">2926.02</div></td><td><div align="left">2604.4673</div></td><td><div align="left">12.35</div></td><td><div align="left">15</div></td><td><div align="left">18.64</div></td><td><div align="left">4.2</div></td></tr><tr><td>10</td><td><div align="left">10</div></td><td><div align="left">杭州萧山机场</div></td><td><div align="left">2552.6</div></td><td><div align="left">2211.4103</div></td><td><div align="left">15.43</div></td><td><div align="left">7</div></td><td><div align="left">39.86</div></td><td><div align="left">8.3</div></td></tr><tr><td>11</td><td><div align="left">11</div></td><td><div align="left">厦门高崎机场</div></td><td><div align="left">2086.4</div></td><td><div align="left">1975.3016</div></td><td><div align="left">5.62</div></td><td><div align="left">10</div></td><td><div align="left">30.64</div></td><td><div align="left">2.3</div></td></tr><tr><td>12</td><td><div align="left">12</div></td><td><div align="left">长沙黄花机场</div></td><td><div align="left">1802.05</div></td><td><div align="left">1600.7212</div></td><td><div align="left">12.58</div></td><td><div align="left">19</div></td><td><div align="left">12.5</div></td><td><div align="left">6.3</div></td></tr><tr><td>13</td><td><div align="left">13</div></td><td><div align="left">武汉天河机场</div></td><td><div align="left">1727.7</div></td><td><div align="left">1570.6063</div></td><td><div align="left">10.00</div></td><td><div align="left">17</div></td><td><div align="left">14.3</div></td><td><div align="left">10.5</div></td></tr><tr><td>14</td><td><div align="left">16</div></td><td><div align="left">青岛流亭机场</div></td><td><div align="left">1641.2</div></td><td><div align="left">1451.6669</div></td><td><div align="left">13.06</div></td><td><div align="left">14</div></td><td><div align="left">20.44</div></td><td><div align="left">9.8</div></td></tr><tr><td>15</td><td><div align="left">14</div></td><td><div align="left">乌鲁木齐地窝堡机场</div></td><td><div align="left">1631.1</div></td><td><div align="left">1535.917</div></td><td><div align="left">6.20</div></td><td><div align="left">16</div></td><td><div align="left">16.27</div></td><td><div align="left">6.2</div></td></tr><tr><td>16</td><td><div align="left">15</div></td><td><div align="left">南京禄口机场</div></td><td><div align="left">1628.2</div></td><td><div align="left">1501.1792</div></td><td><div align="left">8.46</div></td><td><div align="left">11</div></td><td><div align="left">30.42</div></td><td><div align="left">18.9</div></td></tr><tr><td>17</td><td><div align="left">18</div></td><td><div align="left">郑州新郑机场</div></td><td><div align="left">1580.54</div></td><td><div align="left">1313.9994</div></td><td><div align="left">20.28</div></td><td><div align="left">8</div></td><td><div align="left">37.05</div></td><td><div align="left">44.9</div></td></tr><tr><td>18</td><td><div align="left">19</div></td><td><div align="left">三亚凤凰机场</div></td><td><div align="left">1494.3</div></td><td><div align="left">1286.6869</div></td><td><div align="left">16.14</div></td><td><div align="left">22</div></td><td><div align="left">7.56</div></td><td><div align="left">20.2</div></td></tr><tr><td>19</td><td><div align="left">21</div></td><td><div align="left">海口美兰机场</div></td><td><div align="left">1385.3</div></td><td><div align="left">1193.547</div></td><td><div align="left">16.07</div></td><td><div align="left">13</div></td><td><div align="left">12.11</div></td><td><div align="left">8.3</div></td></tr><tr><td>20</td><td><div align="left">17</div></td><td><div align="left">大连周水子机场</div></td><td><div align="left">1355.1</div></td><td><div align="left">1408.3131</div></td><td><div align="left">-3.78</div></td><td><div align="left">18</div></td><td><div align="left">13.35</div></td><td><div align="left">0.8</div></td></tr></table><br/>
 
 
 ---
